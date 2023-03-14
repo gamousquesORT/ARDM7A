@@ -36,6 +36,8 @@ Chosen option: "NodeJS", because Hoy no podemos invertir en cambiar todo el mate
 
 ### NodeJS
 
+Existe mucha doc apoyando la popularidad del lenguaje
+
 * Good, because Ya tenemos el curso armando
 * Good, because Tiene un ecosistema extremadamente popular
 * Good, because JavaScript se utiliza tanto en front-end como back-end
@@ -43,6 +45,8 @@ Chosen option: "NodeJS", because Hoy no podemos invertir en cambiar todo el mate
 * Bad, because Algunas tácticas de arquitectura como de las de performance no son fáciles de implementar
 
 ### GoLang
+
+Lenguaje simple y en adopción
 
 * Good, because Lenguaje simple
 * Good, because Promueve el uso de buenas prácticas de desarrollo
